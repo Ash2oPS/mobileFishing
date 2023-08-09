@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed029180aa8426641892a83a2681e65a, type: 3}
+  m_Name: A_Fish_06
+  m_EditorClassIdentifier: 
+  Index: 5
+  FishName: Ugly Fish
+  Rate: 18
+  FishDescription: Wow! At leasts it sells pretty well! Please sell it fast.
+  FishSprite: {fileID: 21300000, guid: 65927e24e7736b4498bbac5dc14ed05a, type: 3}
+  FishPrice: 4200
+  FishSize: 1.7
+  FishSpeed: 2
+  Depth: -1.9
+  CanAttackNet: 0

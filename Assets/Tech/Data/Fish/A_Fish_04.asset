@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed029180aa8426641892a83a2681e65a, type: 3}
+  m_Name: A_Fish_04
+  m_EditorClassIdentifier: 
+  Index: 3
+  FishName: Geoffrey Fish
+  Rate: 21
+  FishDescription: No clue about this type of fish, so what about giving it a pretty
+    name?
+  FishSprite: {fileID: 21300000, guid: eec4920c2f3cd494d8abaf1f7209097a, type: 3}
+  FishPrice: 400
+  FishSize: 1.2
+  FishSpeed: 3
+  Depth: -1.1
+  CanAttackNet: 0
